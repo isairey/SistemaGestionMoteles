@@ -2,7 +2,7 @@
 
 <img width="220" src="https://cdn-icons-png.flaticon.com/512/139/139899.png" />
 
-# 🏨 renzu_motels
+# 🏨 SistemaGestionMoteles
 
 ### Sistema avanzado de gestión de moteles para FiveM 🚀
 
@@ -149,7 +149,7 @@ El sistema fue diseñado pensando en:
 # 📂 Estructura del proyecto
 
 ```bash
-renzu_motels/
+SistemaGestionMoteles/
 │
 ├── client/
 │
@@ -184,7 +184,7 @@ renzu_motels/
 ## 1️⃣ Descargar recurso
 
 ```bash
-git clone https://github.com/your-user/renzu_motels.git
+git clone https://github.com/isairey/SistemaGestionMoteles.git
 ```
 
 ---
@@ -203,7 +203,7 @@ resources/[motels]/
 
 ```cfg
 ensure ox_lib
-ensure renzu_motels
+ensure SistemaGestionMoteles
 ```
 
 ---
@@ -220,7 +220,7 @@ Instalar:
 ## 5️⃣ Reiniciar servidor
 
 ```bash
-restart renzu_motels
+restart SistemaGestionMoteles
 ```
 
 ---
