@@ -365,6 +365,6 @@ Proyecto open source orientado a servidores RolePlay y desarrollo de recursos av
 
 <div align="center">
 
-### 🏨 renzu_motels — sistema avanzado de moteles para FiveM 🚀
+### 🏨 SistemaGestionMoteles — sistema avanzado de moteles para FiveM 🚀
 
 </div>
